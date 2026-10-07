@@ -1,0 +1,2 @@
+fastmcp>=3.0
+openai>=1.30,<2
